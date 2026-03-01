@@ -1,6 +1,6 @@
 # databricks-git-project
 
-![Alt text](images/architecture.pn)
+![Alt text](images/architecture.png)
 
 
 
